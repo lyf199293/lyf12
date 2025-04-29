@@ -14,7 +14,7 @@ int main() {
 		std::cout << "请输入密码:" << std::endl;
 		std::cin >> passwd;
 		if (userName == "lyf"&&passwd == "123456") {
-			std::cout << "登录成功" << std::endl;
+			std::cout << "恭喜您登录成功" << std::endl;
 			break;
 
 		}
