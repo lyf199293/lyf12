@@ -1,0 +1,8 @@
+﻿1>------ 已启动生成: 项目: Project2, 配置: Debug Win32 ------
+1>test.cpp
+1>c:\users\dell\source\repos\project2\project2\test.cpp(6): warning C4566: 由通用字符名称“\u5218”表示的字符不能在当前代码页(1252)中表示出来
+1>c:\users\dell\source\repos\project2\project2\test.cpp(6): warning C4566: 由通用字符名称“\u96E8”表示的字符不能在当前代码页(1252)中表示出来
+1>c:\users\dell\source\repos\project2\project2\test.cpp(6): warning C4566: 由通用字符名称“\u4E30”表示的字符不能在当前代码页(1252)中表示出来
+1>Project2.vcxproj -> C:\Users\dell\source\repos\Project2\Debug\Project2.exe
+1>已完成生成项目“Project2.vcxproj”的操作。
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========
