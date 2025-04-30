@@ -12,7 +12,7 @@ int main() {
 	int count=0;
 	int len=0;
 
-	cout << "请输入多行" << endl;
+	cout << "请您输入多行" << endl;
 	while (1)
 	{
 		if ((bool)getline(cin, s)==0){
